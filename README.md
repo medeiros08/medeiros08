@@ -5,6 +5,8 @@
 > I'm Arthur, a Computer Science student at Federal University of Pampa (UNIPAMPA).
 > I'm currently in my second semester and I enjoy learning new things,
 > researching how things work and discovering new ideas. 🚀
+>
+> 🌐 **Portfolio:** [medeiros08.github.io](https://medeiros08.github.io)
 
 ---
 
@@ -52,6 +54,8 @@
 ---
 
 ## 🌐 My social media:
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-5A43DF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://medeiros08.github.io)
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/medeiros__08/)
 
