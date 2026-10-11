@@ -18,7 +18,7 @@
 
 ## 🚀 Projects
 
-- **[Código Mirim](https://medeiros08.github.io/Jogo-ES/)** *(in progress)*: games that introduce programming to kids aged 6 to 14,
+- **[Código Mirim](https://medeiros08.github.io/Codigo-Mirim/)** *(in progress)*: games that introduce programming to kids aged 6 to 14,
   plus slides, lesson plans and activity sheets for teachers and a Prompt Workshop on creating classroom materials with AI.
 
 ---
