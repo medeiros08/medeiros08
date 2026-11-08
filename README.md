@@ -1,7 +1,7 @@
 <a href="https://medeiros08.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg"/>
-    <img src="assets/banner-claro.svg" width="100%" alt="Arthur Medeiros: Ciência da Computação na UNIPAMPA. Faço jogos e ferramentas de IA para as escolas públicas de Alegrete."/>
+    <img src="assets/banner-claro.svg" width="100%" alt="Arthur Medeiros: Ciência da Computação na UNIPAMPA. Faço jogos e IA para escolas no GamificaPampa e pesquiso segurança em IoT no TRAP-IoT."/>
   </picture>
 </a>
 
