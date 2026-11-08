@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate the snake (GamificaPampa colours)
+      - name: Generate the snake (marinho e creme)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#2f2a4a&color_dots=#ebedf0,#d5f6ea,#8fd86d,#62c255,#2e7d32
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ffd23f&color_dots=#161b22,#1f4d2b,#3a7d3a,#62c255,#8fd86d
+            dist/github-snake.svg?color_snake=#13234a&color_dots=#efe6d3,#d9c9a6,#8f97ab,#4a5878,#13234a
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f3ead8&color_dots=#161b22,#22366a,#4a5878,#c3bba9,#f3ead8
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
