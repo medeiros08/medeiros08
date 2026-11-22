@@ -66,7 +66,7 @@ Hub de extensão da UNIPAMPA que leva IA e gamificação a professores de escola
     </td>
     <td width="50%" valign="top">
       <h3>XAIID</h3>
-      <i>Estratégias Inteligentes e Explicáveis para Detecção de Intrusões em Sistemas Ciber-Físicos</i>. Bolsa de pesquisa desde novembro de 2026: importância das features por tipo de ataque e comparação entre testbed físico e emulações.
+      <i>Estratégias Inteligentes e Explicáveis para Detecção de Intrusões em Sistemas Ciber-Físicos</i>. Bolsa de pesquisa desde novembro de 2026: quais características do tráfego mais ajudam a reconhecer cada tipo de ataque, e por quê.
       <br/><br/>
       <sub>Python · scikit-learn · IA explicável · <a href="https://arthurmedeiros.dev/notas/ia-explicavel/">nota sobre IA explicável</a></sub>
       <h3><a href="https://github.com/medeiros08/Snort-p4">Snort-p4</a> <sub>(trabalho anterior)</sub></h3>
