@@ -51,7 +51,7 @@ function svg(t) {
   </g>
   <text x="60" y="176" font-family="${fonte}" font-size="92" font-weight="800" letter-spacing="-3.5" fill="${t.texto}">Arthur Medeiros</text>
   <text x="64" y="230" font-family="${fonte}" font-size="27" fill="${t.texto}">Faço jogos e IA para escolas no GamificaPampa</text>
-  <text x="64" y="266" font-family="${fonte}" font-size="27" fill="${t.texto}">e pesquiso segurança em IoT no TRAP-IoT.</text>
+  <text x="64" y="266" font-family="${fonte}" font-size="27" fill="${t.texto}">e pesquiso detecção de intrusões com IA explicável.</text>
   <line x1="64" y1="300" x2="760" y2="300" stroke="${t.fraco}" stroke-width="1.5"/>
   <g font-family="${mono}" font-size="14" letter-spacing="1.2" fill="${t.suave}">
     <text x="64" y="328" xml:space="preserve">AI Horizon Labs  ·  UNIPAMPA  ·  medeiros08.github.io</text>

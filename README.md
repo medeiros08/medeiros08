@@ -1,7 +1,7 @@
 <a href="https://medeiros08.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg"/>
-    <img src="assets/banner-claro.svg" width="100%" alt="Arthur Medeiros: Ciência da Computação na UNIPAMPA. Faço jogos e IA para escolas no GamificaPampa e pesquiso segurança em IoT no TRAP-IoT."/>
+    <img src="assets/banner-claro.svg" width="100%" alt="Arthur Medeiros: Ciência da Computação na UNIPAMPA. Faço jogos e IA para escolas no GamificaPampa e pesquiso detecção de intrusões com IA explicável no XAIID."/>
   </picture>
 </a>
 
@@ -18,7 +18,7 @@
 
 Estudo Ciência da Computação na UNIPAMPA, em Alegrete, e a maior parte do meu tempo vai para o **GamificaPampa**: faço os jogos que as crianças abrem pelo celular na sala de aula e as ferramentas que ajudam professores de escolas públicas a criar materiais com IA.
 
-Também faço parte do **AI Horizon Labs**, o laboratório de IA e engenharia de software da universidade, onde sou bolsista no **TRAP-IoT**, sobre segurança em dispositivos conectados. Aprendo melhor testando e colocando a mão na massa.
+Também sou bolsista de pesquisa no **XAIID**, projeto da UNIPAMPA coordenado pelo professor Silvio E. Quincozes: uso aprendizado de máquina para detectar ataques em sistemas ciber-físicos e IA explicável para entender por que o modelo decidiu cada coisa. Faço parte do **AI Horizon Labs**, o laboratório de IA e engenharia de software da universidade. Aprendo melhor testando e colocando a mão na massa.
 
 <br/>
 
@@ -26,7 +26,7 @@ Também faço parte do **AI Horizon Labs**, o laboratório de IA e engenharia de
 
 | Desenvolvendo | Pesquisa | Grupo |
 |:--|:--|:--|
-| **GamificaPampa**: jogos e IA para escolas públicas · **Expresso Gaúcho**: ônibus de Alegrete em tempo real | **TRAP-IoT**: bolsista em segurança de protocolos IoT, desde 2026 | **AI Horizon Labs**: laboratório de IA e Engenharia de Software da UNIPAMPA |
+| **GamificaPampa**: jogos e IA para escolas públicas · **Expresso Gaúcho**: ônibus de Alegrete em tempo real | **XAIID**: bolsista desde nov/2026, detecção de intrusões em sistemas ciber-físicos com aprendizado de máquina e IA explicável | **AI Horizon Labs**: laboratório de IA e Engenharia de Software da UNIPAMPA |
 
 <br/>
 
@@ -64,14 +64,14 @@ Hub de extensão da UNIPAMPA que leva IA e gamificação a professores de escola
       <sub>JavaScript · PWA · Leaflet</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/medeiros08/Snort-p4">Snort-p4</a></h3>
+      <h3>XAIID</h3>
+      <i>Estratégias Inteligentes e Explicáveis para Detecção de Intrusões em Sistemas Ciber-Físicos</i>. Bolsa de pesquisa desde novembro de 2026: importância das features por tipo de ataque e comparação entre testbed físico e emulações.
+      <br/><br/>
+      <sub>Python · scikit-learn · IA explicável</sub>
+      <h3><a href="https://github.com/medeiros08/Snort-p4">Snort-p4</a> <sub>(trabalho anterior)</sub></h3>
       Compila cabeçalhos de regras do Snort 3 em pré-filtros P4 conservadores, avaliados no BMv2: artigo, compilador, programa P4 e artefatos experimentais.
       <br/><br/>
       <sub>P4 · Python · BMv2</sub>
-      <h3>TRAP-IoT</h3>
-      <i>Resilient Technology for IoT Protocol Applications</i>. Bolsa de pesquisa em segurança de protocolos IoT, no AI Horizon Labs.
-      <br/><br/>
-      <sub>Segurança de redes · IoT</sub>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ Hub de extensão da UNIPAMPA que leva IA e gamificação a professores de escola
   <img src="https://img.shields.io/badge/CSS-13234a?style=flat-square&logo=css&logoColor=f3ead8" alt="CSS"/>
   <img src="https://img.shields.io/badge/C-13234a?style=flat-square&logo=c&logoColor=f3ead8" alt="C"/>
   <img src="https://img.shields.io/badge/Python-13234a?style=flat-square&logo=python&logoColor=f3ead8" alt="Python"/>
-  <img src="https://img.shields.io/badge/P4-13234a?style=flat-square" alt="P4"/>
+  <img src="https://img.shields.io/badge/scikit--learn-13234a?style=flat-square&logo=scikitlearn&logoColor=f3ead8" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/Linux-13234a?style=flat-square&logo=linux&logoColor=f3ead8" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-13234a?style=flat-square&logo=git&logoColor=f3ead8" alt="Git"/>
 </p>
