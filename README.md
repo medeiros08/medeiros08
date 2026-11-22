@@ -37,7 +37,7 @@ Também sou bolsista de pesquisa no **XAIID**, projeto da UNIPAMPA coordenado pe
   <img src="assets/hub.webp" width="100%" alt="Página inicial do hub GamificaPampa"/>
 </a>
 
-Hub de extensão da UNIPAMPA que leva IA e gamificação a professores de escolas públicas de Alegrete. Fiz **19 dos 20 jogos** (6 de programação e 13 por matéria, do 1º ano ao ensino médio), a aula de 50 minutos, a **Oficina de Prompts** e a **Máquina de prompts**.
+Hub de extensão da UNIPAMPA que leva IA e gamificação a professores de escolas públicas de Alegrete. Fiz **30 dos 31 jogos** (6 de programação e 24 por matéria, da Educação Infantil ao ensino médio), as aulas de 50 minutos sobre programação e sobre IA, a **Oficina de Prompts** e a **Máquina de prompts**.
 
 <table>
   <tr>
