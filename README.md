@@ -1,12 +1,13 @@
 <a href="https://medeiros08.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg"/>
-    <img src="assets/banner-claro.svg" width="100%" alt="Arthur Medeiros: Ciência da Computação na UNIPAMPA. Faço jogos e IA para escolas no GamificaPampa e pesquiso detecção de intrusões com IA explicável no XAIID."/>
+    <img src="assets/banner-claro.svg" width="100%" alt="Arthur Medeiros: IA que se explica, na pesquisa e na escola. Detecção de intrusões com IA explicável no XAIID e jogos e IA para escolas no GamificaPampa."/>
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://medeiros08.github.io"><b>Portfólio</b></a> &nbsp;·&nbsp;
+  <a href="https://arthurmedeiros.dev"><b>Portfólio</b></a> &nbsp;·&nbsp;
+  <a href="https://arthurmedeiros.dev/notas/ia-explicavel/">IA explicável, sem jargão</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/arthur-medeiros-34a344356/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="http://lattes.cnpq.br/3699255553076395">Lattes</a> &nbsp;·&nbsp;
   <a href="https://orcid.org/0009-0000-8991-4068">ORCID</a> &nbsp;·&nbsp;
@@ -67,7 +68,7 @@ Hub de extensão da UNIPAMPA que leva IA e gamificação a professores de escola
       <h3>XAIID</h3>
       <i>Estratégias Inteligentes e Explicáveis para Detecção de Intrusões em Sistemas Ciber-Físicos</i>. Bolsa de pesquisa desde novembro de 2026: importância das features por tipo de ataque e comparação entre testbed físico e emulações.
       <br/><br/>
-      <sub>Python · scikit-learn · IA explicável</sub>
+      <sub>Python · scikit-learn · IA explicável · <a href="https://arthurmedeiros.dev/notas/ia-explicavel/">nota sobre IA explicável</a></sub>
       <h3><a href="https://github.com/medeiros08/Snort-p4">Snort-p4</a> <sub>(trabalho anterior)</sub></h3>
       Compila cabeçalhos de regras do Snort 3 em pré-filtros P4 conservadores, avaliados no BMv2: artigo, compilador, programa P4 e artefatos experimentais.
       <br/><br/>
